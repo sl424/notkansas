@@ -1,0 +1,20 @@
+{
+  "name": "not in kansas",
+  "version": "1.0.0",
+  "description": "unity webgl version of the not in kansas ",
+  "main": "notkansas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sl424",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "latest",
+    "express": "latest",
+    "express-handlebars": "latest",
+    "express-session": "latest",
+    "mysql": "latest",
+    "request": "latest"
+  }
+}
+

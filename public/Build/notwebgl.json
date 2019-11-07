@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "NotInKansasAnymore",
+"dataUrl": "notwebgl.data.unityweb",
+"asmCodeUrl": "notwebgl.asm.code.unityweb",
+"asmMemoryUrl": "notwebgl.asm.memory.unityweb",
+"asmFrameworkUrl": "notwebgl.asm.framework.unityweb",
+"TOTAL_MEMORY": 524288000,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
