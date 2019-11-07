@@ -1,11 +1,11 @@
 var express = require('express');
 var app = express();
 var request = require('request');
-var handlebars = require('express-handlebars').create({defaultlayout:'main'});
+var handlebars = require('express-handlebars');//.create({defaultlayout:'main'});
 var session = require('express-session');
 
 var bodyParser = require('body-parser');
-app.engine('handlebars',handlebars({extname: '.handlebars', defaultLayout: false});
+app.engine('handlebars', handlebars({extname: '.handlebars', defaultLayout: false}));
 app.set('view engine', 'handlebars');
 app.set('port', 1515);
 
