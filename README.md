@@ -1,3 +1,5 @@
+[notkansas]: https://chewie-lin.me/notkansas "not in kansas game"
+
 ## “Not In Kansas Anymore” Unity Game
 It's a strange title for a game but simply put its a survival shooter game with some interesting tweaks.
 
@@ -7,6 +9,8 @@ the elements. Instead I used some procedural generated script to randomly
 spawn the 2D space and then use the terrain toolkit to add the additional features. 
 
 ![generator](./generator.png "procedural generator engine")
+
+You can try the game here at [notkansas].
 
 ## example screenshots
 ![forest](./forest.png "forest")
