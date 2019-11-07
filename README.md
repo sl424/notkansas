@@ -9,6 +9,7 @@ the elements. Instead I used some procedural generated script to randomly
 spawn the 2D space and then use the terrain toolkit to add the additional features. 
 
 ![generator](./generator.png "procedural generator engine")
+This game's environment is auto generated at run time using map generator and mesh generator. By using the runtime navmesh APIs from Unity, the AI agent now navigate the new space without manual baking.
 
 You can try the game here at [notkansas].
 
